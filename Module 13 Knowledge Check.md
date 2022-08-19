@@ -1,6 +1,6 @@
 # Module 13 Knowledge Check
 
-### Which of the following are factors for calculating ope
+### Which of the following are factors for calculating operational availability?
 
 - [X] Level of downtime risk
 - [ ] Component failure risk
