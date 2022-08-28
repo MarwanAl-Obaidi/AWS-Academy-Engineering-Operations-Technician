@@ -1,6 +1,8 @@
 # AWS-Academy-Engineering-Operations-Technician
 AWS Academy Engineering Operations Technician is designed to help students develop technical expertise in engineering operations. This course is for learners enrolled in a data center operations, engineering, or information technology track in a STEM course at a higher education academic institution. This course also helps to re-skill professional learners.
 
+Link to [Certificate](https://www.credly.com/badges/4b144936-7d6d-4a33-976e-8e9b5126e6f6/public_url).
+
 ### Contents:
 
 - Welcome and Overview
