@@ -1,4 +1,4 @@
-# Module 8 Knowledge Check INCOMPLETE!
+# Module 8 Knowledge Check
 
 ### Why should data centers have a cooling system? (Select THREE.)
 
